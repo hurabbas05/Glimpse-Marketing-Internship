@@ -68,7 +68,7 @@ Delivered a full-scale marketing plan with content scheduling, performance analy
 
 **Core Highlights:**  
 - Finalized **Campus Creator Giveaway** campaign  
-- Weekly posting calendar via Canva, CapCut, Meta Suite  
+- Weekly posting calendar via Canva, CapCut  
 - 20+ categorized hashtags + competitor benchmarking  
 - Created consistent content tone across IG, LinkedIn  
 
@@ -82,8 +82,7 @@ Delivered a full-scale marketing plan with content scheduling, performance analy
 
 ## 📎 Tools & Technologies Used
 
-- Canva  
-- Meta Business Suite  
+- Canva    
 - CapCut / InShot  
 - Instagram & LinkedIn  
 - Hashtag & Analytics platforms  
