@@ -1,12 +1,14 @@
 # 🌐 Glimpse Marketing Insights & Innovation Internship
 
 **Platform:** Excelerate  
+**Role:** Marketing Intern
 **Duration:** June – July 2025  
 **Location:** Remote – Dubai, UAE  
 
 This repository documents my four-week experience as a **Marketing Insights & Innovation Intern** at **Glimpse**, where I developed and executed digital marketing strategies focused on education, travel, and student engagement. Each weekly deliverable reflects analytical research, content creation, campaign planning, and performance reporting—tailored for real-world marketing challenges.
 
 ---
+## 🗓 Weekly Progress
 
 ## 🚀 Week 1: Competitor Analysis & Strategic Recommendations
 
