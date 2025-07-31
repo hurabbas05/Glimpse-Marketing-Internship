@@ -2,6 +2,7 @@
 
 **Platform:** Excelerate  
 **Role:** Marketing Intern
+
 **Duration:** June – July 2025  
 **Location:** Remote – Dubai, UAE  
 
