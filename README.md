@@ -1,7 +1,7 @@
 # 🌐 Glimpse Marketing Insights & Innovation Internship
 
 **Platform:** Excelerate  
-**Role:** Marketing Intern 
+**Role:** Marketing Intern  
 **Duration:** June – July 2025  
 **Location:** Remote – Dubai, UAE  
 
