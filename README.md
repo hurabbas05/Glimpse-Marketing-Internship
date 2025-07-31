@@ -96,3 +96,11 @@ Delivered a full-scale marketing plan with content scheduling, performance analy
 Throughout this internship, I strengthened my marketing insight capabilities by blending creativity with data-driven decision-making. My work contributed to Glimpse’s brand presence, student engagement strategy, and content innovation across global platforms. This hands-on experience sharpened my ability to build campaigns from the ground up and tailor marketing efforts to dynamic audiences.
 
 ---
+
+## 🙋‍♂️ Author
+
+**Syed Hur Abbas Naqvi**  
+📧 syedhur572@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/hurabbas05)
+
+---
