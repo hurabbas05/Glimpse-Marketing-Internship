@@ -100,7 +100,9 @@ Throughout this internship, I strengthened my marketing insight capabilities by 
 ## 🙋‍♂️ Author
 
 **Syed Hur Abbas Naqvi**  
-📧 syedhur572@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hurabbas05)
+🌐 **Portfolio:** [https://hurabbas05.github.io/](https://hurabbas05.github.io/)  
+🔗 **LinkedIn:**  [https://www.linkedin.com/in/hurabbas05/](https://www.linkedin.com/in/hurabbas05/)  
+📧 **Email:**     [syedhur572@gmail.com](mailto:syedhur572@gmail.com)  
+📞 **Phone:**     [+923036098700](tel:+923036098700)
 
 ---
