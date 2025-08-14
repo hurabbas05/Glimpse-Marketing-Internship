@@ -1,4 +1,4 @@
-# 🌐 Glimpse Marketing Insights & Innovation Internship
+# Glimpse Marketing Insights & Innovation Internship
 
 **Platform:** Excelerate  
 **Role:** Marketing Intern  
